@@ -1,0 +1,248 @@
+2015-09-05 16:47:04 -0400
+
+./configure
+--prefix=/usr/local/Cellar/emacs/24.5
+--enable-locallisppath=/usr/local/share/emacs/site-lisp
+--infodir=/usr/local/Cellar/emacs/24.5/share/info/emacs
+--with-file-notification=gfile
+--with-xml2
+--with-dbus
+--with-gnutls
+--with-rsvg
+--with-imagemagick
+--without-popmail
+--with-ns
+--disable-ns-self-contained
+
+configure: WARNING: unrecognized options: --without-popmail
+checking for xcrun... xcrun
+checking for make... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... build-aux/install-sh -c -d
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking build system type... x86_64-apple-darwin14.5.0
+checking host system type... x86_64-apple-darwin14.5.0
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether clang accepts -g... yes
+checking for clang option to accept ISO C89... none needed
+checking whether clang understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of clang... gcc3
+checking for ar... ar
+checking how to run the C preprocessor... clang -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for Minix Amsterdam compiler... no
+checking for ranlib... ranlib
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking whether _XOPEN_SOURCE should be defined... no
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking for clang option to accept ISO C99... none needed
+checking for clang option to accept ISO Standard C... (cached) none needed
+checking whether clang accepts -g3 -O2... yes
+checking whether the compiler is clang... yes
+checking whether C compiler handles -Werror -Wunknown-warning-option... yes
+checking whether C compiler handles -Wno-switch... yes
+checking whether C compiler handles -Wno-tautological-constant-out-of-range-compare... yes
+checking whether C compiler handles -Wno-pointer-sign... yes
+checking whether ln -s works for files in the same directory... yes
+checking for install-info... /usr/bin/install-info
+checking for gzip... /usr/bin/gzip
+checking for makeinfo... /usr/bin/makeinfo
+checking for -znocombreloc... no
+checking whether addresses are sanitized... no
+checking for pkg-config... /usr/local/opt/pkg-config/bin/pkg-config
+checking for machine/soundcard.h... no
+checking for sys/soundcard.h... no
+checking for soundcard.h... no
+checking for mmsystem.h... no
+checking for _oss_ioctl in -lossaudio... no
+checking for alsa >= 1.0.0... no
+checking for sys/systeminfo.h... no
+checking for coff.h... no
+checking for pty.h... no
+checking for sys/resource.h... yes
+checking for sys/utsname.h... yes
+checking for pwd.h... yes
+checking for utmp.h... yes
+checking for util.h... yes
+checking for sys/socket.h... yes
+checking for stdlib.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for sys/param.h... yes
+checking for pthread.h... yes
+checking for malloc/malloc.h... yes
+checking for maillock.h... no
+checking for sys/un.h... yes
+checking for dirent.h... yes
+checking for execinfo.h... yes
+checking for stdio_ext.h... no
+checking for getopt.h... yes
+checking for sys/time.h... yes
+checking for wchar.h... yes
+checking for stdint.h... (cached) yes
+checking for inttypes.h... (cached) yes
+checking for sys/select.h... yes
+checking for sys/stat.h... (cached) yes
+checking for utime.h... yes
+checking if personality LINUX32 can be set... no
+checking for term.h... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking whether sys_siglist is declared... yes
+checking for sys/wait.h that is POSIX.1 compatible... yes
+checking for net/if.h... yes
+checking for ifaddrs.h... yes
+checking for net/if_dl.h... yes
+checking for struct ifreq.ifr_flags... yes
+checking for struct ifreq.ifr_hwaddr... no
+checking for struct ifreq.ifr_netmask... no
+checking for struct ifreq.ifr_broadaddr... yes
+checking for struct ifreq.ifr_addr... yes
+checking for struct ifreq.ifr_addr.sa_len... yes
+checking whether we are using GNU Make... yes
+checking whether gcc understands -MMD -MF... yes
+checking for long file names... yes
+checking for X... libraries , headers 
+checking AppKit/AppKit.h usability... yes
+checking AppKit/AppKit.h presence... yes
+checking for AppKit/AppKit.h... yes
+checking for OSX 10.4 or newer... yes
+checking for OSX 10.5 or newer... yes
+checking whether malloc is Doug Lea style... no
+checking for getpagesize... yes
+checking for working mmap... yes
+checking for dnet_ntoa in -ldnet... no
+checking for main in -lXbsd... no
+checking for pthread_self in -lpthread... yes
+checking for cma_open in -lpthreads... no
+checking for librsvg-2.0 >= 2.11.0... yes CFLAGS='-D_REENTRANT -I/usr/local/Cellar/libpng/1.6.18/include/libpng16 -I/usr/local/Cellar/freetype/2.6_1/include/freetype2 -I/usr/local/Cellar/fontconfig/2.11.1/include -I/usr/local/Cellar/freetype/2.6_1/include/freetype2 -I/usr/local/Cellar/pixman/0.32.6/include/pixman-1 -I/usr/local/Cellar/glib/2.44.1/include/glib-2.0 -I/usr/local/Cellar/glib/2.44.1/lib/glib-2.0/include -I/usr/local/opt/gettext/include -I/usr/local/Cellar/cairo/1.14.2_1/include/cairo -I/usr/local/Cellar/gdk-pixbuf/2.30.8/include/gdk-pixbuf-2.0 -I/usr/local/Cellar/librsvg/2.40.10/include/librsvg-2.0 -I/opt/X11/include ' LIBS='-L/usr/local/Cellar/glib/2.44.1/lib -L/usr/local/opt/gettext/lib -L/usr/local/Cellar/cairo/1.14.2_1/lib -L/usr/local/Cellar/gdk-pixbuf/2.30.8/lib -L/usr/local/Cellar/librsvg/2.40.10/lib -lrsvg-2 -lm -lgio-2.0 -lgdk_pixbuf-2.0 -lgobject-2.0 -lglib-2.0 -lintl -lcairo '
+checking for Wand >= 6.3.5 Wand != 6.8.2... yes CFLAGS='-fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -I/usr/local/Cellar/imagemagick/6.9.1-10/include/ImageMagick-6 ' LIBS='-L/usr/local/Cellar/imagemagick/6.9.1-10/lib -lMagickWand-6.Q16HDRI -lMagickCore-6.Q16HDRI '
+checking for MagickExportImagePixels... no
+checking for MagickMergeImageLayers... no
+checking for dbus-1 >= 1.0... yes CFLAGS='-I/usr/local/Cellar/d-bus/1.10.0/include/dbus-1.0 -I/usr/local/Cellar/d-bus/1.10.0/lib/dbus-1.0/include ' LIBS='-L/usr/local/Cellar/d-bus/1.10.0/lib -ldbus-1 '
+checking for dbus_watch_get_unix_fd... no
+checking for dbus_type_is_valid... no
+checking for dbus_validate_bus_name... no
+checking for dbus_validate_path... no
+checking for dbus_validate_interface... no
+checking for dbus_validate_member... no
+checking for lgetfilecon in -lselinux... no
+checking for gnutls >= 3.0.0... yes CFLAGS='-I/usr/local/Cellar/libtasn1/4.5/include -I/usr/local/Cellar/nettle/2.7.1/include -I/usr/local/Cellar/gnutls/3.3.17.1/include ' LIBS='-L/usr/local/Cellar/gnutls/3.3.17.1/lib -lgnutls '
+checking for gio-2.0 >= 2.24... yes CFLAGS='-D_REENTRANT -I/usr/local/Cellar/glib/2.44.1/include/glib-2.0 -I/usr/local/Cellar/glib/2.44.1/lib/glib-2.0/include -I/usr/local/opt/gettext/include ' LIBS='-L/usr/local/Cellar/glib/2.44.1/lib -L/usr/local/opt/gettext/lib -lgio-2.0 -lgobject-2.0 -lglib-2.0 -lintl '
+checking for library containing inflateEnd... no
+checking gpm.h usability... no
+checking gpm.h presence... no
+checking for gpm.h... no
+checking for libxml-2.0 > 2.6.17... yes CFLAGS='-I/usr/include/libxml2 ' LIBS='-lxml2 '
+checking for htmlReadMemory in -lxml2... no
+checking whether netdb declares h_errno... no
+checking for sqrt in -lm... no
+checking for maillock in -lmail... no
+checking for maillock in -llockfile... no
+checking for liblockfile.so... no
+checking for accept4... no
+checking for fchdir... no
+checking for gethostname... no
+checking for getrusage... no
+checking for get_current_dir_name... no
+checking for lrand48... no
+checking for select... no
+checking for getpagesize... (cached) yes
+checking for setlocale... no
+checking for getrlimit... no
+checking for setrlimit... no
+checking for shutdown... no
+checking for getaddrinfo... no
+checking for strsignal... no
+checking for setitimer... no
+checking for sendto... no
+checking for recvfrom... no
+checking for getsockname... no
+checking for getpeername... no
+checking for getifaddrs... no
+checking for freeifaddrs... no
+checking for gai_strerror... no
+checking for getline... no
+checking for getdelim... no
+checking for sync... no
+checking for getpwent... no
+checking for endpwent... no
+checking for getgrent... no
+checking for endgrent... no
+checking for touchlock... no
+checking for cfmakeraw... no
+checking for cfsetspeed... no
+checking for copysign... no
+checking for __executable_start... no
+checking for log2... no
+checking for random... no
+checking for rint... no
+checking for __builtin_unwind_init... no
+checking for _LARGEFILE_SOURCE value needed for large files... unknown
+checking for grantpt... no
+checking for getpt... no
+checking for posix_openpt... no
+checking for library containing tputs... no
+configure: error: The required function `tputs' was not found in any library.
+The following libraries were tried (in order):
+  libtinfo, libncurses, libterminfo, libtermcap, libcurses
+Please try installing whichever of these libraries is most appropriate
+for your system, together with its header files.
+For example, a libncurses-dev(el) or similar package.
+
+HOMEBREW_VERSION: 0.9.5
+ORIGIN: https://github.com/Homebrew/homebrew
+HEAD: 03ad27453de01adc29cbf941bd29a2dfb54a9960
+Last commit: 4 hours ago
+HOMEBREW_PREFIX: /usr/local
+HOMEBREW_REPOSITORY: /usr/local
+HOMEBREW_CELLAR: /usr/local/Cellar
+HOMEBREW_BOTTLE_DOMAIN: https://homebrew.bintray.com
+CPU: dual-core 64-bit core2
+OS X: 10.10.5-x86_64
+Xcode: 6.4
+CLT: 6.4.0.0.1.1435007323
+GCC-4.2: build 0
+Clang: 6.1 build 602
+X11: 2.7.7 => /opt/X11
+System Ruby: 2.0.0-p481
+Perl: /usr/bin/perl
+Python: /usr/bin/python
+Ruby: /usr/bin/ruby
+Java: 1.8.0_60
+
+HOMEBREW_CC: clang
+HOMEBREW_CXX: clang++
+MAKEFLAGS: -j2
+CMAKE_PREFIX_PATH: /usr/local/opt/libffi:/usr/local/opt/readline:/usr/local/opt/openssl:/usr/local/opt/gettext:/usr/local/opt/icu4c:/usr/local
+CMAKE_INCLUDE_PATH: /usr/include/libxml2:/opt/X11/include:/opt/X11/include/freetype2:/System/Library/Frameworks/OpenGL.framework/Versions/Current/Headers
+CMAKE_LIBRARY_PATH: /opt/X11/lib:/System/Library/Frameworks/OpenGL.framework/Versions/Current/Libraries
+PKG_CONFIG_PATH: /usr/local/opt/xz/lib/pkgconfig:/usr/local/opt/d-bus/lib/pkgconfig:/usr/local/opt/libtasn1/lib/pkgconfig:/usr/local/opt/nettle/lib/pkgconfig:/usr/local/opt/libffi/lib/pkgconfig:/usr/local/opt/bdw-gc/lib/pkgconfig:/usr/local/opt/guile/lib/pkgconfig:/usr/local/opt/p11-kit/lib/pkgconfig:/usr/local/opt/openssl/lib/pkgconfig:/usr/local/opt/libevent/lib/pkgconfig:/usr/local/opt/gnutls/lib/pkgconfig:/usr/local/opt/libpng/lib/pkgconfig:/usr/local/opt/freetype/lib/pkgconfig:/usr/local/opt/fontconfig/lib/pkgconfig:/usr/local/opt/pixman/lib/pkgconfig:/usr/local/opt/glib/lib/pkgconfig:/usr/local/opt/cairo/lib/pkgconfig:/usr/local/opt/libtiff/lib/pkgconfig:/usr/local/opt/gobject-introspection/lib/pkgconfig:/usr/local/opt/gdk-pixbuf/lib/pkgconfig:/usr/local/opt/atk/lib/pkgconfig:/usr/local/opt/libepoxy/lib/pkgconfig:/usr/local/opt/icu4c/lib/pkgconfig:/usr/local/opt/graphite2/lib/pkgconfig:/usr/local/opt/harfbuzz/lib/pkgconfig:/usr/local/opt/pango/lib/pkgconfig:/usr/local/opt/gtk+3/lib/pkgconfig:/usr/local/opt/libcroco/lib/pkgconfig:/usr/local/opt/libgsf/lib/pkgconfig:/usr/local/opt/librsvg/lib/pkgconfig:/usr/local/opt/little-cms/lib/pkgconfig:/usr/local/opt/little-cms2/lib/pkgconfig:/usr/local/opt/ilmbase/lib/pkgconfig:/usr/local/opt/openexr/lib/pkgconfig:/usr/local/opt/webp/lib/pkgconfig:/usr/local/opt/fftw/lib/pkgconfig:/usr/local/opt/imagemagick/lib/pkgconfig:/usr/local/opt/gsasl/lib/pkgconfig:/usr/local/opt/gsettings-desktop-schemas/share/pkgconfig
+PKG_CONFIG_LIBDIR: /usr/lib/pkgconfig:/usr/local/Library/ENV/pkgconfig/10.10:/opt/X11/lib/pkgconfig:/opt/X11/share/pkgconfig
+ACLOCAL_PATH: /usr/local/opt/gettext/share/aclocal:/usr/local/share/aclocal:/opt/X11/share/aclocal
+PATH: /usr/local/Library/ENV/4.3:/usr/local/opt/xz/bin:/usr/local/opt/pkg-config/bin:/usr/local/opt/d-bus/bin:/usr/local/opt/libtasn1/bin:/usr/local/opt/nettle/bin:/usr/local/opt/libtool/bin:/usr/local/opt/guile/bin:/usr/local/opt/p11-kit/bin:/usr/local/opt/openssl/bin:/usr/local/opt/libevent/bin:/usr/local/opt/gnutls/bin:/usr/local/opt/libpng/bin:/usr/local/opt/freetype/bin:/usr/local/opt/fontconfig/bin:/usr/local/opt/gettext/bin:/usr/local/opt/glib/bin:/usr/local/opt/cairo/bin:/usr/local/opt/jpeg/bin:/usr/local/opt/libtiff/bin:/usr/local/opt/gobject-introspection/bin:/usr/local/opt/gdk-pixbuf/bin:/usr/local/opt/jasper/bin:/usr/local/opt/icu4c/bin:/usr/local/opt/graphite2/bin:/usr/local/opt/harfbuzz/bin:/usr/local/opt/pango/bin:/usr/local/opt/gtk+3/bin:/usr/local/opt/libcroco/bin:/usr/local/opt/libgsf/bin:/usr/local/opt/librsvg/bin:/usr/local/opt/little-cms/bin:/usr/local/opt/little-cms2/bin:/usr/local/opt/openexr/bin:/usr/local/opt/jbig2dec/bin:/usr/local/opt/ghostscript/bin:/usr/local/opt/giflib/bin:/usr/local/opt/webp/bin:/usr/local/opt/fftw/bin:/usr/local/opt/imagemagick/bin:/usr/local/opt/gsasl/bin:/usr/local/opt/mailutils/bin:/opt/X11/bin:/usr/bin:/bin:/usr/sbin:/sbin

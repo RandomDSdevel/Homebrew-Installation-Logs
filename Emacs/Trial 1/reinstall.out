@@ -1,0 +1,340 @@
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/emacs.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/xz.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pkg-config.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/d-bus.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gnutls.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtasn1.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gmp.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/nettle.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/librsvg.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/cairo.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/freetype.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libpng.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/fontconfig.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pixman.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/glib.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gettext.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libffi.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gdk-pixbuf.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jpeg.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtiff.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gobject-introspection.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libcroco.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/intltool.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pango.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/harfbuzz.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/icu4c.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/imagemagick.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtool.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/mailutils.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gsasl.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/guile.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libunistring.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/bdw-gc.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libatomic_ops.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/readline.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/p11-kit.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/unbound.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/openssl.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/makedepend.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libevent.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/doxygen.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/cmake.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/graphviz.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/graphite2.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gts.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/netpbm.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jasper.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gtk+3.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/atk.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libepoxy.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/automake.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/autoconf.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gsettings-desktop-schemas.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/hicolor-icon-theme.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libgsf.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/little-cms.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/little-cms2.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/openexr.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/ilmbase.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/ghostscript.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jbig2dec.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/webp.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/giflib.rb
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/fftw.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FromPathLoader): loading /usr/local/Library/Formula/emacs.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/d-bus.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gnutls.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtasn1.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gmp.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/nettle.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/guile.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtool.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libffi.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libunistring.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/bdw-gc.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/readline.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/p11-kit.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/unbound.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/openssl.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libevent.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/librsvg.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/cairo.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/freetype.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libpng.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/fontconfig.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pixman.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/glib.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gettext.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gdk-pixbuf.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jpeg.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libtiff.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gobject-introspection.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pkg-config.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gtk+3.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jasper.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/atk.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libepoxy.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gsettings-desktop-schemas.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/pango.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/harfbuzz.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/icu4c.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/graphite2.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/hicolor-icon-theme.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libcroco.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/libgsf.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/imagemagick.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/xz.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/little-cms.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/little-cms2.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/openexr.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/ilmbase.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/ghostscript.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/jbig2dec.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/webp.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/giflib.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/fftw.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/mailutils.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/gsasl.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/intltool.rb
+==> Downloading http://ftpmirror.gnu.org/emacs/emacs-24.5.tar.xz
+Already downloaded: /Library/Caches/Homebrew/emacs-24.5.tar.xz
+==> Verifying emacs-24.5.tar.xz checksum
+==> ./configure --prefix=/usr/local/Cellar/emacs/24.5 --enable-locallisppath=/usr/local/share/emacs/site-lisp --infodir=/usr/local/Cellar/emacs/24.5/share/info/emacs --with-file-notification=gfile --with-xml2 --with-dbus --with-gnutls --with-rsvg --with-imagemagick --without-popmail --with-ns --disable-ns-self-contained
+configure: WARNING: unrecognized options: --without-popmail
+checking for xcrun... xcrun
+checking for make... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... build-aux/install-sh -c -d
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking build system type... x86_64-apple-darwin14.5.0
+checking host system type... x86_64-apple-darwin14.5.0
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether clang accepts -g... yes
+checking for clang option to accept ISO C89... none needed
+checking whether clang understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of clang... gcc3
+checking for ar... ar
+checking how to run the C preprocessor... clang -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for Minix Amsterdam compiler... no
+checking for ranlib... ranlib
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking whether _XOPEN_SOURCE should be defined... no
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking for clang option to accept ISO C99... none needed
+checking for clang option to accept ISO Standard C... (cached) none needed
+checking whether clang accepts -g3 -O2... yes
+checking whether the compiler is clang... yes
+checking whether C compiler handles -Werror -Wunknown-warning-option... yes
+checking whether C compiler handles -Wno-switch... yes
+checking whether C compiler handles -Wno-tautological-constant-out-of-range-compare... yes
+checking whether C compiler handles -Wno-pointer-sign... yes
+checking whether ln -s works for files in the same directory... yes
+checking for install-info... /usr/bin/install-info
+checking for gzip... /usr/bin/gzip
+checking for makeinfo... /usr/bin/makeinfo
+checking for -znocombreloc... no
+checking whether addresses are sanitized... no
+checking for pkg-config... /usr/local/opt/pkg-config/bin/pkg-config
+checking for machine/soundcard.h... no
+checking for sys/soundcard.h... no
+checking for soundcard.h... no
+checking for mmsystem.h... no
+checking for _oss_ioctl in -lossaudio... no
+checking for alsa >= 1.0.0... no
+checking for sys/systeminfo.h... no
+checking for coff.h... no
+checking for pty.h... no
+checking for sys/resource.h... yes
+checking for sys/utsname.h... yes
+checking for pwd.h... yes
+checking for utmp.h... yes
+checking for util.h... yes
+checking for sys/socket.h... yes
+checking for stdlib.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking for sys/param.h... yes
+checking for pthread.h... yes
+checking for malloc/malloc.h... yes
+checking for maillock.h... no
+checking for sys/un.h... yes
+checking for dirent.h... yes
+checking for execinfo.h... yes
+checking for stdio_ext.h... no
+checking for getopt.h... yes
+checking for sys/time.h... yes
+checking for wchar.h... yes
+checking for stdint.h... (cached) yes
+checking for inttypes.h... (cached) yes
+checking for sys/select.h... yes
+checking for sys/stat.h... (cached) yes
+checking for utime.h... yes
+checking if personality LINUX32 can be set... no
+checking for term.h... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking whether sys_siglist is declared... yes
+checking for sys/wait.h that is POSIX.1 compatible... yes
+checking for net/if.h... yes
+checking for ifaddrs.h... yes
+checking for net/if_dl.h... yes
+checking for struct ifreq.ifr_flags... yes
+checking for struct ifreq.ifr_hwaddr... no
+checking for struct ifreq.ifr_netmask... no
+checking for struct ifreq.ifr_broadaddr... yes
+checking for struct ifreq.ifr_addr... yes
+checking for struct ifreq.ifr_addr.sa_len... yes
+checking whether we are using GNU Make... yes
+checking whether gcc understands -MMD -MF... yes
+checking for long file names... yes
+checking for X... libraries , headers 
+checking AppKit/AppKit.h usability... yes
+checking AppKit/AppKit.h presence... yes
+checking for AppKit/AppKit.h... yes
+checking for OSX 10.4 or newer... yes
+checking for OSX 10.5 or newer... yes
+checking whether malloc is Doug Lea style... no
+checking for getpagesize... yes
+checking for working mmap... yes
+checking for dnet_ntoa in -ldnet... no
+checking for main in -lXbsd... no
+checking for pthread_self in -lpthread... yes
+checking for cma_open in -lpthreads... no
+checking for librsvg-2.0 >= 2.11.0... yes CFLAGS='-D_REENTRANT -I/usr/local/Cellar/libpng/1.6.18/include/libpng16 -I/usr/local/Cellar/freetype/2.6_1/include/freetype2 -I/usr/local/Cellar/fontconfig/2.11.1/include -I/usr/local/Cellar/freetype/2.6_1/include/freetype2 -I/usr/local/Cellar/pixman/0.32.6/include/pixman-1 -I/usr/local/Cellar/glib/2.44.1/include/glib-2.0 -I/usr/local/Cellar/glib/2.44.1/lib/glib-2.0/include -I/usr/local/opt/gettext/include -I/usr/local/Cellar/cairo/1.14.2_1/include/cairo -I/usr/local/Cellar/gdk-pixbuf/2.30.8/include/gdk-pixbuf-2.0 -I/usr/local/Cellar/librsvg/2.40.10/include/librsvg-2.0 -I/opt/X11/include ' LIBS='-L/usr/local/Cellar/glib/2.44.1/lib -L/usr/local/opt/gettext/lib -L/usr/local/Cellar/cairo/1.14.2_1/lib -L/usr/local/Cellar/gdk-pixbuf/2.30.8/lib -L/usr/local/Cellar/librsvg/2.40.10/lib -lrsvg-2 -lm -lgio-2.0 -lgdk_pixbuf-2.0 -lgobject-2.0 -lglib-2.0 -lintl -lcairo '
+checking for Wand >= 6.3.5 Wand != 6.8.2... yes CFLAGS='-fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -I/usr/local/Cellar/imagemagick/6.9.1-10/include/ImageMagick-6 ' LIBS='-L/usr/local/Cellar/imagemagick/6.9.1-10/lib -lMagickWand-6.Q16HDRI -lMagickCore-6.Q16HDRI '
+checking for MagickExportImagePixels... no
+checking for MagickMergeImageLayers... no
+checking for dbus-1 >= 1.0... yes CFLAGS='-I/usr/local/Cellar/d-bus/1.10.0/include/dbus-1.0 -I/usr/local/Cellar/d-bus/1.10.0/lib/dbus-1.0/include ' LIBS='-L/usr/local/Cellar/d-bus/1.10.0/lib -ldbus-1 '
+checking for dbus_watch_get_unix_fd... no
+checking for dbus_type_is_valid... no
+checking for dbus_validate_bus_name... no
+checking for dbus_validate_path... no
+checking for dbus_validate_interface... no
+checking for dbus_validate_member... no
+checking for lgetfilecon in -lselinux... no
+checking for gnutls >= 3.0.0... yes CFLAGS='-I/usr/local/Cellar/libtasn1/4.5/include -I/usr/local/Cellar/nettle/2.7.1/include -I/usr/local/Cellar/gnutls/3.3.17.1/include ' LIBS='-L/usr/local/Cellar/gnutls/3.3.17.1/lib -lgnutls '
+checking for gio-2.0 >= 2.24... yes CFLAGS='-D_REENTRANT -I/usr/local/Cellar/glib/2.44.1/include/glib-2.0 -I/usr/local/Cellar/glib/2.44.1/lib/glib-2.0/include -I/usr/local/opt/gettext/include ' LIBS='-L/usr/local/Cellar/glib/2.44.1/lib -L/usr/local/opt/gettext/lib -lgio-2.0 -lgobject-2.0 -lglib-2.0 -lintl '
+checking for library containing inflateEnd... no
+checking gpm.h usability... no
+checking gpm.h presence... no
+checking for gpm.h... no
+checking for libxml-2.0 > 2.6.17... yes CFLAGS='-I/usr/include/libxml2 ' LIBS='-lxml2 '
+checking for htmlReadMemory in -lxml2... no
+checking whether netdb declares h_errno... no
+checking for sqrt in -lm... no
+checking for maillock in -lmail... no
+checking for maillock in -llockfile... no
+checking for liblockfile.so... no
+checking for accept4... no
+checking for fchdir... no
+checking for gethostname... no
+checking for getrusage... no
+checking for get_current_dir_name... no
+checking for lrand48... no
+checking for select... no
+checking for getpagesize... (cached) yes
+checking for setlocale... no
+checking for getrlimit... no
+checking for setrlimit... no
+checking for shutdown... no
+checking for getaddrinfo... no
+checking for strsignal... no
+checking for setitimer... no
+checking for sendto... no
+checking for recvfrom... no
+checking for getsockname... no
+checking for getpeername... no
+checking for getifaddrs... no
+checking for freeifaddrs... no
+checking for gai_strerror... no
+checking for getline... no
+checking for getdelim... no
+checking for sync... no
+checking for getpwent... no
+checking for endpwent... no
+checking for getgrent... no
+checking for endgrent... no
+checking for touchlock... no
+checking for cfmakeraw... no
+checking for cfsetspeed... no
+checking for copysign... no
+checking for __executable_start... no
+checking for log2... no
+checking for random... no
+checking for rint... no
+checking for __builtin_unwind_init... no
+checking for _LARGEFILE_SOURCE value needed for large files... unknown
+checking for grantpt... no
+checking for getpt... no
+checking for posix_openpt... no
+checking for library containing tputs... no
+configure: error: The required function `tputs' was not found in any library.
+The following libraries were tried (in order):
+  libtinfo, libncurses, libterminfo, libtermcap, libcurses
+Please try installing whichever of these libraries is most appropriate
+for your system, together with its header files.
+For example, a libncurses-dev(el) or similar package.
+/usr/local/Library/Homebrew/debrew.rb:11:in `raise'
+BuildError: Failed executing: ./configure --prefix=/usr/local/Cellar/emacs/24.5 --enable-locallisppath=/usr/local/share/emacs/site-lisp --infodir=/usr/local/Cellar/emacs/24.5/share/info/emacs --with-file-notification=gfile --with-xml2 --with-dbus --with-gnutls --with-rsvg --with-imagemagick --without-popmail --with-ns --disable-ns-self-contained
+1. raise
+2. ignore
+3. backtrace
+4. irb
+5. shell
+Choose an action: /usr/local/Library/Homebrew/debrew.rb:56:in `gets'
+Interrupt: 
+1. raise
+2. backtrace
+3. shell
+Choose an action: Multiple options match: raise backtrace shell
+1. raise
+2. backtrace
+3. shell
+Choose an action: 

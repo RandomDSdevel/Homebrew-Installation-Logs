@@ -1,0 +1,73 @@
+/usr/local/Library/brew.rb (Formulary::TapLoader): loading /usr/local/Library/Formula/libvpx.rb
+==> Reinstalling libvpx with --with-examples, --with-gcov, --with-mem-tracker, --with-visualizer
+rm /usr/local/bin/vpxdec
+rm /usr/local/bin/vpxenc
+rm /usr/local/include/vpx
+rm /usr/local/lib/libvpx.a
+rm /usr/local/lib/pkgconfig/vpx.pc
+/usr/local/Library/brew.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/yasm.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FromPathLoader): loading /usr/local/Library/Formula/libvpx.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/yasm.rb
+/usr/local/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Library/Formula/python.rb
+==> Downloading https://github.com/webmproject/libvpx/archive/v1.5.0.tar.gz
+Already downloaded: /Library/Caches/Homebrew/libvpx-1.5.0.tar.gz
+==> Verifying libvpx-1.5.0.tar.gz checksum
+tar xf /Library/Caches/Homebrew/libvpx-1.5.0.tar.gz
+==> ../configure --prefix=/usr/local/Cellar/libvpx/1.5.0 --enable-pic --disable-unit-tests --enable-examples --enable-mem-tracker --enable-postproc-visualizer
+  enabling pic
+  disabling unit_tests
+Unknown option "--enable-mem-tracker".
+See ../configure --help for available options.
+/usr/local/Library/Homebrew/debrew.rb:11:in `raise'
+BuildError: Failed executing: ../configure --prefix=/usr/local/Cellar/libvpx/1.5.0 --enable-pic --disable-unit-tests --enable-examples --enable-mem-tracker --enable-postproc-visualizer
+1. raise
+2. ignore
+3. backtrace
+4. irb
+5. shell
+Choose an action: ln -s ../Cellar/libvpx/1.4.0/bin/vpxdec vpxdec
+ln -s ../Cellar/libvpx/1.4.0/bin/vpxenc vpxenc
+ln -s ../Cellar/libvpx/1.4.0/include/vpx vpx
+ln -s ../Cellar/libvpx/1.4.0/lib/libvpx.a libvpx.a
+ln -s ../../Cellar/libvpx/1.4.0/lib/pkgconfig/vpx.pc vpx.pc
+==> Formula
+Path: /usr/local/Library/Formula/libvpx.rb
+==> Configuration
+HOMEBREW_VERSION: 0.9.5
+ORIGIN: https://github.com/Homebrew/homebrew
+HEAD: 2ebbd5cce8278edd5bae359ee498ca4d58d5b650
+Last commit: 6 hours ago
+HOMEBREW_PREFIX: /usr/local
+HOMEBREW_REPOSITORY: /usr/local
+HOMEBREW_CELLAR: /usr/local/Cellar
+HOMEBREW_BOTTLE_DOMAIN: https://homebrew.bintray.com
+CPU: dual-core 64-bit core2
+OS X: 10.11.2-x86_64
+Xcode: 7.2
+CLT: 7.2.0.0.1.1447826929
+Clang: 7.0 build 700
+X11: 2.7.8 => /opt/X11
+System Ruby: 2.0.0-p645
+Perl: /usr/local/bin/perl => /usr/local/Cellar/perl/5.22.0/bin/perl
+Python: /usr/local/bin/python => /usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+Ruby: /usr/local/bin/ruby => /usr/local/Cellar/ruby/2.2.3/bin/ruby
+Java: 1.8.0_66, 1.8.0_65, 1.8.0_60, 1.8.0_51, 1.8.0_45, 1.8.0_40, 1.8.0_31, 1.8.0_25, 1.8.0_20
+==> ENV
+HOMEBREW_CC: clang
+HOMEBREW_CXX: clang++
+MAKEFLAGS: -j2
+CMAKE_PREFIX_PATH: /usr/local
+CMAKE_INCLUDE_PATH: /usr/include/libxml2:/System/Library/Frameworks/OpenGL.framework/Versions/Current/Headers
+CMAKE_LIBRARY_PATH: /System/Library/Frameworks/OpenGL.framework/Versions/Current/Libraries
+CMAKE_FRAMEWORK_PATH: /usr/local/opt/python/Frameworks
+PKG_CONFIG_PATH: /usr/local/opt/python/lib/pkgconfig
+PKG_CONFIG_LIBDIR: /usr/lib/pkgconfig:/usr/local/Library/ENV/pkgconfig/10.11
+ACLOCAL_PATH: /usr/local/share/aclocal
+PATH: /usr/local/opt/python/bin:/usr/local/Library/ENV/4.3:/usr/local/opt/yasm/bin:/usr/local/opt/python/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Error: libvpx 1.5.0 did not build
+Logs:
+     /Users/zadmin/Library/Logs/Homebrew/libvpx/01.configure
+
+These open issues may also help:
+ffmpeg 2.8.3 does not build with libvpx 1.5.0 https://github.com/Homebrew/homebrew/issues/47029
