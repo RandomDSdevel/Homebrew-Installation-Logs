@@ -1,0 +1,2 @@
+Homebrew build logs for homebrew/php/php56 on Mac OS X 10.11.6
+Build date: 2016-08-23 18:05:36

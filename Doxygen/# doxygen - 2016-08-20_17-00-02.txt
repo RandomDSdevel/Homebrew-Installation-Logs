@@ -1,0 +1,2 @@
+Homebrew build logs for doxygen on Mac OS X 10.11.6
+Build date: 2016-08-20 17:00:02

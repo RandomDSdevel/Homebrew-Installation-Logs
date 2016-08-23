@@ -1,0 +1,52 @@
+2016-08-20 16:59:35 -0400
+
+cmake
+..
+-DCMAKE_C_FLAGS_RELEASE=-DNDEBUG
+-DCMAKE_CXX_FLAGS_RELEASE=-DNDEBUG
+-DCMAKE_INSTALL_PREFIX=/usr/local/Cellar/doxygen/1.8.11
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_FIND_FRAMEWORK=LAST
+-DCMAKE_VERBOSE_MAKEFILE=ON
+-Wno-dev
+-Dbuild_wizard=ON
+-Duse_libclang=ON -DLLVM_CONFIG=/usr/local/opt/llvm/bin/llvm-config
+
+-- The C compiler identification is AppleClang 7.3.0.7030031
+-- The CXX compiler identification is AppleClang 7.3.0.7030031
+-- Check for working C compiler: /usr/local/Library/Homebrew/shims/super/clang
+-- Check for working C compiler: /usr/local/Library/Homebrew/shims/super/clang -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/local/Library/Homebrew/shims/super/clang++
+-- Check for working CXX compiler: /usr/local/Library/Homebrew/shims/super/clang++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- llvm-config found at: /usr/local/opt/llvm/bin/llvm-config
+-- Using Clang 3.8.1 from /usr/local/Cellar/llvm/3.8.1/lib with LIBS /usr/local/opt/llvm/lib/libclang.dylib and CXXFLAGS 
+-- Found PythonInterp: /usr/local/bin/python (found version "2.7.12") 
+-- Found FLEX: /usr/bin/flex (found version "2.5.35") 
+-- Found BISON: /usr/bin/bison (found version "2.3") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- Looking for iconv_open
+-- Looking for iconv_open - not found
+-- Performing Test ICONV_COMPILES
+-- Performing Test ICONV_COMPILES - Success
+-- Found ICONV: /usr/lib/libiconv.dylib  
+-- One (and only one) of the ICONV_ACCEPTS_... tests must pass
+-- Performing Test ICONV_ACCEPTS_NONCONST_INPUT
+-- Performing Test ICONV_ACCEPTS_NONCONST_INPUT - Success
+-- Performing Test ICONV_ACCEPTS_CONST_INPUT
+-- Performing Test ICONV_ACCEPTS_CONST_INPUT - Failed
+-- Using Qt5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/doxygen-20160820-26365-1c50stw/doxygen-1.8.11/build
