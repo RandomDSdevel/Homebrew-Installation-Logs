@@ -1,0 +1,8 @@
+Sep 10 15:28:50 sandboxd[141]: install(60916) deny file-write-unlink /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls.scm
+Sep 10 15:28:50 sandboxd[141]: install(60916) deny file-write-unlink /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls.scm
+Sep 10 15:28:50 sandboxd[141]: install(60916) deny file-write-data /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls.scm
+Sep 10 15:28:50 sandboxd[141]: install(60918) deny file-write-unlink /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls/extra.scm
+Sep 10 15:28:50 sandboxd[141]: install(60918) deny file-write-unlink /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls/extra.scm
+Sep 10 15:28:50 sandboxd[141]: install(60918) deny file-write-data /usr/local/Cellar/guile/2.0.11_2/share/guile/site/gnutls/extra.scm
+
+We use time to filter sandbox log. Therefore, unrelated logs may be recorded.

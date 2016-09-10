@@ -1,0 +1,2 @@
+Homebrew build logs for gnutls on Mac OS X 10.11.6
+Build date: 2016-09-10 15:29:12
