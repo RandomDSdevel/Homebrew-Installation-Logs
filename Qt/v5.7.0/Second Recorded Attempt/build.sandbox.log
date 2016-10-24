@@ -1,0 +1,8 @@
+Oct 24 13:51:32 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+Oct 24 13:51:32 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+Oct 24 13:51:32 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+Oct 24 13:51:32 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+Oct 24 13:51:33 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+Oct 24 13:51:33 sandboxd[147]: com.apple.WebKit(862) deny file-read-data /private/etc/hosts
+
+We use time to filter sandbox log. Therefore, unrelated logs may be recorded.
