@@ -1,0 +1,249 @@
+Checking check_access_cache
+Checking check_access_cellar
+Checking check_access_homebrew_repository
+Checking check_access_logs
+Checking check_access_prefix_directories
+Checking check_access_site_packages
+Checking check_clt_minimum_version
+Checking check_clt_up_to_date
+Checking check_dyld_vars
+Checking check_filesystem_case_sensitive
+Checking check_for_anaconda
+Checking check_for_bad_curl
+Checking check_for_bad_install_name_tool
+Checking check_for_bad_python_symlink
+Checking check_for_beta_xquartz
+Checking check_for_config_scripts
+Checking check_for_enthought_python
+Checking check_for_external_cmd_name_conflict
+Checking check_for_gettext
+Checking check_for_git
+Checking check_for_iconv
+Checking check_for_installed_developer_tools
+Checking check_for_latest_xquartz
+Checking check_for_library_python
+Checking check_for_multiple_volumes
+Checking check_for_non_prefixed_coreutils
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/coreutils.rb
+Checking check_for_non_prefixed_findutils
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/findutils.rb
+Checking check_for_old_env_vars
+Checking check_for_old_homebrew_share_python_in_path
+Checking check_for_osx_gcc_installer
+Checking check_for_other_frameworks
+Checking check_for_other_package_managers
+Checking check_for_prerelease_xcode
+Checking check_for_pth_support
+Checking check_for_pydistutils_cfg_in_home
+Checking check_for_stray_developer_directory
+Checking check_for_stray_dylibs
+Checking check_for_stray_headers
+Checking check_for_stray_las
+Checking check_for_stray_pcs
+Checking check_for_stray_static_libs
+Checking check_for_symlinked_cellar
+Checking check_for_unlinked_but_not_keg_only
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/apr.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/apr-util.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/berkeley-db4.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/bison.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/curl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/e2fsprogs.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gettext.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/icu4c.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libarchive.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libffi.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libxml2.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/llvm.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/ncurses.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/openldap.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/openssl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/qt5.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/readline.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sphinx-doc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlite.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/tcl-tk.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/zlib.rb
+Checking check_for_unsupported_curl_vars
+Checking check_for_unsupported_macos
+Checking check_git_newline_settings
+Checking check_git_origin
+Checking check_git_status
+Checking check_git_version
+Checking check_homebrew_prefix
+Checking check_path_for_trailing_slashes
+Checking check_ruby_version
+Checking check_ssl_cert_file
+Checking check_tmpdir
+Checking check_tmpdir_sticky_bit
+Checking check_user_curlrc
+Checking check_user_path_1
+Checking check_user_path_2
+Checking check_user_path_3
+Checking check_which_pkg_config
+Checking check_xcode_8_without_clt_on_el_capitan
+Checking check_xcode_license_approved
+Checking check_xcode_minimum_version
+Checking check_xcode_prefix
+Checking check_xcode_prefix_exists
+Checking check_xcode_select_path
+Checking check_xcode_up_to_date
+Checking check_for_broken_symlinks
+Checking check_missing_deps
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/aalib.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/aspcud.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/aspell.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/atk.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/autoconf.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/automake.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/babl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/bdw-gc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/boost.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/boost-python.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/c-ares.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/cairo.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/camlp4.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/clasp.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/cmake.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/composer.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/php53.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/php54.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/php55.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/php56.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/cunit.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/dbus.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/djvulibre.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/dnsmasq.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/doxygen.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ecj.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/emacs.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/enchant.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/fftw.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/fltk.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/fontconfig.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/freetds.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/freetype.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gd.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gdbm.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gdk-pixbuf.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ghostscript.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/giflib.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/git.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/git-review.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/glib.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gmp.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gnu-sed.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gnupg.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gnutls.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/go.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gobject-introspection.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/graphite2.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/graphviz.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/grep.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gringo.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gsasl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gsettings-desktop-schemas.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gtk+.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gtk+3.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gtk-mac-integration.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gts.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/guile.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/harfbuzz.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/hicolor-icon-theme.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-apache/httpd24.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ilmbase.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/imagemagick.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/imap-uw.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/intltool.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/irssi.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/isl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/jansson.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/jasper.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/jbig2dec.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/jemalloc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/jpeg.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ldns.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libatomic_ops.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libcroco.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libepoxy.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libev.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libevent.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libexif.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libglade.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libgsf.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libidn.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/liblqr.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libmetalink.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libmpc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libpng.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/librsvg.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libssh2.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libtasn1.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libtiff.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libtool.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libunistring.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libvpx.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libwmf.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/libyaml.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/little-cms.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/little-cms2.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/lua.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/luajit.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/lz4.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/lzo.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/lzop.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/mailutils.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/makedepend.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-apache/mod_fastcgi.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/mpfr.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/mysql.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/nano.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/netpbm.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/nettle.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/nghttp2.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ocaml.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ocamlbuild.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/opam.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/open-mpi.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/openexr.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/openjpeg.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-versions/openjpeg21.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/openssh.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/p11-kit.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pango.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pcre.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/perl.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-php/Formula/php56-opcache.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pixman.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pkg-config.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/poppler.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/postgresql.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pstree.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/py2cairo.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pygobject.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/pygtk.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/python.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/python3.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/qt.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/re2c.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/rsync.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/rtmpdump.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/ruby.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/scons.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/shared-mime-info.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/spdylay.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/subversion.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/swig.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tcsh.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-dupes/tidy.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tidy-html5.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tree.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/unbound.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/unixodbc.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/vim.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/webp.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/xz.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::TapLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/yasm.rb
+Checking check_for_linked_keg_only_brews
+Your system is ready to brew.
