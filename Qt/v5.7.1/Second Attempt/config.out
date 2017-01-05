@@ -1,0 +1,23 @@
+HOMEBREW_VERSION: 1.1.6
+ORIGIN: https://github.com/Homebrew/brew.git
+HEAD: 619791e83d2781dca1b675e20249a8aebe085c7c
+Last commit: 2 days ago
+Core tap ORIGIN: https://github.com/Homebrew/homebrew-core
+Core tap HEAD: 003288022cf4b026fa96f670514227d4edaa0682
+Core tap last commit: 21 hours ago
+HOMEBREW_PREFIX: /usr/local
+HOMEBREW_REPOSITORY: /usr/local/Homebrew
+HOMEBREW_CELLAR: /usr/local/Cellar
+HOMEBREW_BOTTLE_DOMAIN: https://homebrew.bintray.com
+CPU: dual-core 64-bit core2
+Homebrew Ruby: 2.0.0-p648
+Clang: 8.0 build 800
+Git: 2.11.0 => /usr/local/bin/git
+Perl: /usr/local/bin/perl => /usr/local/Cellar/perl/5.24.0_1/bin/perl
+Python: /usr/local/bin/python => /usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+Ruby: /usr/local/bin/ruby => /usr/local/Cellar/ruby/2.4.0/bin/ruby
+Java: 1.8.0_112, 1.8.0_111
+macOS: 10.11.6-x86_64
+Xcode: 8.2.1
+CLT: 8.2.0.0.1.1480973914
+X11: 2.7.11 => /opt/X11
