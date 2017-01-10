@@ -1,0 +1,1 @@
+sqlite --with-dbstat --with-docs --with-fts --with-icu4c --with-json1 --with-secure-delete --with-session --with-unlock-notify
