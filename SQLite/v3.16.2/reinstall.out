@@ -1,0 +1,94 @@
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlite.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/readline.rb
+/usr/local/Homebrew/Library/Homebrew/brew.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/icu4c.rb
+==> Reinstalling sqlite --universal --with-docs --with-fts --with-secure-delete --with-unlock-notify --with-icu4c --with-functions --with-dbstat --with-json1 --with-session
+==> Using the sandbox
+/usr/bin/sandbox-exec -f /tmp/homebrew20170109-22663-1s3kbb8.sb nice /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby -W0 -I /usr/local/Homebrew/Library/Homebrew -- /usr/local/Homebrew/Library/Homebrew/build.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlite.rb --verbose --debug --universal --with-docs --with-fts --with-secure-delete --with-unlock-notify --with-icu4c --with-functions --with-dbstat --with-json1 --with-session
+/usr/local/Homebrew/Library/Homebrew/build.rb (Formulary::FromPathLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlite.rb
+/usr/local/Homebrew/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/readline.rb
+/usr/local/Homebrew/Library/Homebrew/build.rb (Formulary::FormulaLoader): loading /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/icu4c.rb
+==> Downloading https://sqlite.org/2017/sqlite-autoconf-3160200.tar.gz
+Already downloaded: /Users/zadmin/Library/Caches/Homebrew/sqlite-3.16.2.tar.gz
+==> Verifying sqlite-3.16.2.tar.gz checksum
+tar xzf /Users/zadmin/Library/Caches/Homebrew/sqlite-3.16.2.tar.gz
+==> ./configure --prefix=/usr/local/Cellar/sqlite/3.16.2 --disable-dependency-tracking --enable-dynamic-extensions
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... ./install-sh -c -d
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for style of include used by make... GNU
+checking for gcc... clang
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... configure: error: in `/private/tmp/sqlite-20170109-22665-18pnatj/sqlite-autoconf-3160200':
+configure: error: cannot run C compiled programs.
+If you meant to cross compile, use `--host'.
+See `config.log' for more details
+/usr/local/Homebrew/Library/Homebrew/debrew.rb:11:in `raise'
+BuildError: Failed executing: ./configure --prefix=/usr/local/Cellar/sqlite/3.16.2 --disable-dependency-tracking --enable-dynamic-extensions
+1. raise
+2. ignore
+3. backtrace
+4. irb
+5. shell
+Choose an action: ==> Kept temporary files
+Temporary files retained at /tmp/sqlite-20170109-22665-18pnatj
+
+==> Formula
+Path: /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/sqlite.rb
+==> Configuration
+HOMEBREW_VERSION: 1.1.6-45-g9cce3414f
+ORIGIN: https://github.com/Homebrew/brew.git
+HEAD: 9cce3414fbd39d146d97911dbb3bf07fffaa1080
+Last commit: 11 hours ago
+Core tap ORIGIN: https://github.com/Homebrew/homebrew-core
+Core tap HEAD: 9c73d3a8b03609054a0cada348802f85e4fd99a7
+Core tap last commit: 2 hours ago
+HOMEBREW_PREFIX: /usr/local
+HOMEBREW_REPOSITORY: /usr/local/Homebrew
+HOMEBREW_CELLAR: /usr/local/Cellar
+HOMEBREW_BOTTLE_DOMAIN: https://homebrew.bintray.com
+CPU: dual-core 64-bit core2
+Homebrew Ruby: 2.0.0-p648
+Clang: 8.0 build 800
+Git: 2.11.0 => /usr/local/bin/git
+Perl: /usr/local/bin/perl => /usr/local/Cellar/perl/5.24.0_1/bin/perl
+Python: /usr/local/bin/python => /usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+Ruby: /usr/local/bin/ruby => /usr/local/Cellar/ruby/2.4.0/bin/ruby
+Java: 1.8.0_112, 1.8.0_111
+macOS: 10.11.6-x86_64
+Xcode: 8.2.1
+CLT: 8.2.0.0.1.1480973914
+X11: 2.7.11 => /opt/X11
+==> ENV
+HOMEBREW_CC: clang
+HOMEBREW_CXX: clang++
+CPPFLAGS: -DSQLITE_ENABLE_COLUMN_METADATA=1 -DSQLITE_MAX_VARIABLE_NUMBER=250000 -DSQLITE_ENABLE_RTREE=1 -DSQLITE_ENABLE_FTS3=1 -DSQLITE_ENABLE_FTS3_PARENTHESIS=1 -DSQLITE_SECURE_DELETE=1 -DSQLITE_ENABLE_UNLOCK_NOTIFY=1 -DSQLITE_ENABLE_DBSTAT_VTAB=1 -DSQLITE_ENABLE_JSON1=1 -DSQLITE_ENABLE_PREUPDATE_HOOK=1 -DSQLITE_ENABLE_SESSION=1 -I/usr/local/Cellar/icu4c/58.2/include    -DSQLITE_ENABLE_ICU=1
+LDFLAGS:  -L/usr/local/Cellar/icu4c/58.2/lib -licui18n -licuuc -licudata   
+SDKROOT: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk
+MAKEFLAGS: -j2
+CMAKE_PREFIX_PATH: /usr/local/opt/readline:/usr/local/opt/icu4c:/usr/local
+CMAKE_INCLUDE_PATH: /usr/include/libxml2:/System/Library/Frameworks/OpenGL.framework/Versions/Current/Headers
+CMAKE_LIBRARY_PATH: /System/Library/Frameworks/OpenGL.framework/Versions/Current/Libraries
+MACOSX_DEPLOYMENT_TARGET: 10.11
+PKG_CONFIG_PATH: /usr/local/opt/icu4c/lib/pkgconfig
+PKG_CONFIG_LIBDIR: /usr/lib/pkgconfig:/usr/local/Homebrew/Library/Homebrew/os/mac/pkgconfig/10.11
+ACLOCAL_PATH: /usr/local/share/aclocal
+PATH: /usr/local/Homebrew/Library/Homebrew/shims/super:/usr/local/opt/icu4c/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Error: sqlite 3.16.2 did not build
+Logs:
+     /Users/zadmin/Library/Logs/Homebrew/sqlite/00.options.out
+     /Users/zadmin/Library/Logs/Homebrew/sqlite/01.configure
+     /Users/zadmin/Library/Logs/Homebrew/sqlite/01.configure.cc
+     /Users/zadmin/Library/Logs/Homebrew/sqlite/config.log
+READ THIS: http://docs.brew.sh/Troubleshooting.html
+
+These open issues may also help:
+zabbix: fix Support SQLite databases. https://github.com/Homebrew/homebrew-core/pull/6982
