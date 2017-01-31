@@ -1,0 +1,332 @@
+2017-01-31 16:25:09 -0500
+
+./configure
+--prefix=/usr/local/Cellar/unbound/1.6.0_1
+--sysconfdir=/usr/local/etc
+--with-libevent=/usr/local/opt/libevent
+--with-ssl=/usr/local/opt/openssl
+--with-pyunbound
+--with-pythonmodule
+PYTHON_SITE_PKG=/usr/local/Cellar/unbound/1.6.0_1/lib/python2.7/site-packages
+
+checking for gcc... clang
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether clang accepts -g... yes
+checking for clang option to accept ISO C89... none needed
+checking how to run the C preprocessor... clang -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking minix/config.h usability... no
+checking minix/config.h presence... no
+checking for minix/config.h... no
+checking whether it is safe to define __EXTENSIONS__... yes
+checking for an ANSI C-conforming const... yes
+checking whether clang supports -g... yes
+checking whether clang supports -O2... yes
+checking for gcc... (cached) clang
+checking whether we are using the GNU C compiler... (cached) yes
+checking whether clang accepts -g... (cached) yes
+checking for clang option to accept ISO C89... (cached) none needed
+checking clang dependency flag... -MM
+checking whether clang supports -Werror... yes
+checking whether clang supports -Wall... yes
+checking whether clang supports -std=c99... yes
+checking whether clang supports -xc99... no
+checking for getopt.h... yes
+checking for time.h... yes
+checking whether we need -std=c99 -D__EXTENSIONS__ -D_BSD_SOURCE -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200112 -D_XOPEN_SOURCE=600 -D_XOPEN_SOURCE_EXTENDED=1 -D_ALL_SOURCE as a flag for clang... no
+checking whether we need -std=c99 -D__EXTENSIONS__ -D_BSD_SOURCE -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200112 -D_XOPEN_SOURCE=600 -D_ALL_SOURCE as a flag for clang... no
+checking whether we need -std=c99 as a flag for clang... no
+checking whether we need -D_BSD_SOURCE -D_DEFAULT_SOURCE as a flag for clang... no
+checking whether we need -D_GNU_SOURCE as a flag for clang... no
+checking whether we need -D_GNU_SOURCE -D_FRSRESGID as a flag for clang... failed
+checking whether we need -D_POSIX_C_SOURCE=200112 as a flag for clang... no
+checking whether we need -D__EXTENSIONS__ as a flag for clang... no
+checking if clang supports -flto... yes
+checking for inline... inline
+checking whether the C compiler (clang) accepts the "format" attribute... yes
+checking whether the C compiler (clang) accepts the "unused" attribute... yes
+checking whether the C compiler (clang) accepts the "weak" attribute... yes
+checking for flex... flex
+checking lex output file root... lex.yy
+checking lex library... -ll
+checking whether yytext is a pointer... yes
+checking for yylex_destroy... yes
+checking for bison... bison -y
+checking for doxygen... no
+checking for strip... strip
+checking build system type... x86_64-apple-darwin15.6.0
+checking host system type... x86_64-apple-darwin15.6.0
+checking for ar... /usr/bin/ar
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/local/Homebrew/Library/Homebrew/shims/super/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by clang... /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+checking if the linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 196608
+checking how to convert x86_64-apple-darwin15.6.0 file names to x86_64-apple-darwin15.6.0 format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin15.6.0 file names to toolchain format... func_convert_file_noop
+checking for /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld option to reload object files... -r
+checking for objdump... no
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for archiver @FILE support... no
+checking for strip... (cached) strip
+checking for ranlib... ranlib
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking command to parse /usr/bin/nm -B output from clang object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dsymutil... dsymutil
+checking for nmedit... nmedit
+checking for lipo... lipo
+checking for otool... otool
+checking for otool64... no
+checking for -single_module linker flag... yes
+checking for -exported_symbols_list linker flag... yes
+checking for -force_load linker flag... no
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if clang supports -fno-rtti -fno-exceptions... yes
+checking for clang option to produce PIC... -fno-common -DPIC
+checking if clang PIC flag -fno-common -DPIC works... yes
+checking if clang static flag -static works... no
+checking if clang supports -c -o file.o... yes
+checking if clang supports -c -o file.o... (cached) yes
+checking whether the clang linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin15.6.0 dyld
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking for stdarg.h... yes
+checking for stdbool.h... yes
+checking for netinet/in.h... yes
+checking for netinet/tcp.h... yes
+checking for sys/param.h... yes
+checking for sys/socket.h... yes
+checking for sys/un.h... yes
+checking for sys/uio.h... yes
+checking for sys/resource.h... yes
+checking for arpa/inet.h... yes
+checking for syslog.h... yes
+checking for netdb.h... yes
+checking for sys/wait.h... yes
+checking for pwd.h... yes
+checking for glob.h... yes
+checking for grp.h... yes
+checking for login_cap.h... no
+checking for winsock2.h... no
+checking for ws2tcpip.h... no
+checking for endian.h... no
+checking for int8_t... yes
+checking for int16_t... yes
+checking for int32_t... yes
+checking for int64_t... yes
+checking for uint8_t... yes
+checking for uint16_t... yes
+checking for uint32_t... yes
+checking for uint64_t... yes
+checking for size_t... yes
+checking for ssize_t... yes
+checking for uid_t in sys/types.h... yes
+checking for pid_t... yes
+checking for off_t... yes
+checking for u_char... yes
+checking for rlim_t... yes
+checking for socklen_t... yes
+checking for in_addr_t... yes
+checking for in_port_t... yes
+checking if memcmp compares unsigned... yes
+checking size of time_t... 8
+checking for library containing inet_pton... none required
+checking for library containing socket... none required
+checking for unistd.h... (cached) yes
+checking for working chown... yes
+checking vfork.h usability... no
+checking vfork.h presence... no
+checking for vfork.h... no
+checking for fork... yes
+checking for vfork... yes
+checking for working fork... yes
+checking for working vfork... (cached) yes
+checking return type of signal handlers... void
+checking for _LARGEFILE_SOURCE value needed for large files... no
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking whether we need -D_LARGEFILE_SOURCE=1 as a flag for clang... no
+checking if nonblocking sockets work... yes
+checking whether mkdir has one arg... no
+checking for strptime... yes
+checking whether strptime works... no
+checking for GNU libc compatible malloc... yes
+checking if compiler needs -Werror to reject unknown flags... yes
+checking whether pthreads work with -pthread... yes
+checking for joinable pthread attribute... PTHREAD_CREATE_JOINABLE
+checking if more special flags are required for pthreads... -D_THREAD_SAFE
+checking for PTHREAD_PRIO_INHERIT... yes
+checking for pthread_spinlock_t... no
+checking for pthread_rwlock_t... yes
+checking if -pthread unused during linking... yes
+checking for python... /usr/local/opt/python/bin/python
+checking for the distutils Python package... yes
+checking for Python include path... -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7
+checking for Python library path... -L/usr/local/opt/python/Frameworks/Python.framework/Versions/2.7/lib -L/usr/local/opt/python/Frameworks/Python.framework/Versions/2.7/lib/python2.7 
+checking for Python site-packages path... /usr/local/Cellar/unbound/1.6.0_1/lib/python2.7/site-packages
+checking consistency of all components of python development environment... yes
+checking for swig... /usr/local/opt/swig/bin/swig
+checking SWIG... present
+checking for SSL... found in /usr/local/opt/openssl
+checking for HMAC_Update in -lcrypto... yes
+checking for openssl/ssl.h... yes
+checking for openssl/err.h... yes
+checking for openssl/rand.h... yes
+checking if libssl needs libdl... no
+checking if libssl needs -lcrypt32... no
+checking for LibreSSL... no
+checking for openssl/conf.h... yes
+checking for openssl/engine.h... yes
+checking for openssl/bn.h... yes
+checking for openssl/dh.h... yes
+checking for openssl/dsa.h... yes
+checking for openssl/rsa.h... yes
+checking for OPENSSL_config... yes
+checking for EVP_sha1... yes
+checking for EVP_sha256... yes
+checking for EVP_sha512... yes
+checking for FIPS_mode... yes
+checking for EVP_MD_CTX_new... no
+checking for OpenSSL_add_all_digests... yes
+checking for OPENSSL_init_crypto... no
+checking for EVP_cleanup... yes
+checking for ERR_load_crypto_strings... yes
+checking for CRYPTO_cleanup_all_ex_data... yes
+checking for ERR_free_strings... yes
+checking for RAND_cleanup... yes
+checking for DSA_SIG_set0... no
+checking for EVP_dss1... yes
+checking for OPENSSL_init_ssl... no
+checking for SSL_CTX_set_security_level... no
+checking whether SSL_COMP_get_compression_methods is declared... yes
+checking whether sk_SSL_COMP_pop_free is declared... yes
+checking whether SSL_CTX_set_ecdh_auto is declared... yes
+checking for EVP_PKEY_set_type_str... yes
+checking for EC_KEY_new... yes
+checking if GOST works... yes
+checking for ECDSA_sign... yes
+checking for SHA384_Init... yes
+checking whether NID_X9_62_prime256v1 is declared... yes
+checking whether NID_secp384r1 is declared... yes
+checking if openssl supports SHA2 and ECDSA with EVP... yes
+checking for DSA_SIG_new... yes
+checking for libevent... found in /usr/local/opt/libevent
+checking for library containing clock_gettime... (cached) no
+checking for event.h... yes
+checking whether EV_VERSION_MAJOR is declared... no
+checking for library containing event_set... -levent
+checking for event_base_free... yes
+checking for event_base_once... yes
+checking for event_base_new... yes
+checking for event_base_get_method... yes
+checking for ev_loop... no
+checking for ev_default_loop... no
+checking for libexpat... found in /usr
+checking for expat.h... yes
+checking whether XML_StopParser is declared... yes
+checking for getaddrinfo... yes
+checking for ioctlsocket... no
+checking for daemon... yes
+checking if daemon is deprecated... yes
+checking for struct sockaddr_un.sun_len... yes
+checking for struct in_pktinfo.ipi_spec_dst... yes
+checking for library containing setusercontext... no
+checking for tzset... yes
+checking for sigprocmask... yes
+checking for fcntl... yes
+checking for getpwnam... yes
+checking for endpwent... yes
+checking for getrlimit... yes
+checking for setrlimit... yes
+checking for setsid... yes
+checking for chroot... yes
+checking for kill... yes
+checking for chown... yes
+checking for sleep... yes
+checking for usleep... yes
+checking for random... yes
+checking for srandom... yes
+checking for recvmsg... yes
+checking for sendmsg... yes
+checking for writev... yes
+checking for socketpair... yes
+checking for glob... yes
+checking for initgroups... yes
+checking for strftime... yes
+checking for localtime_r... yes
+checking for setusercontext... no
+checking for _beginthreadex... no
+checking for endservent... yes
+checking for endprotoent... yes
+checking for fsync... yes
+checking for setresuid... no
+checking for setreuid... yes
+checking for setresgid... no
+checking for setregid... yes
+checking for inet_aton... yes
+checking for inet_pton... yes
+checking for inet_ntop... yes
+checking for snprintf... yes
+checking for correct snprintf return value... yes
+checking for strlcat... yes
+checking for strlcpy... yes
+checking for memmove... yes
+checking for gmtime_r... yes
+checking for isblank... yes
+checking for reallocarray... no
+checking for arc4random... yes
+checking for arc4random_uniform... yes
+checking for ctime_r... yes
+checking for strsep... yes
+checking if make supports $< with implicit rule in scope... yes
+configure: Stripping extension flags...
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating doc/example.conf
+config.status: creating doc/libunbound.3
+config.status: creating doc/unbound.8
+config.status: creating doc/unbound-anchor.8
+config.status: creating doc/unbound-checkconf.8
+config.status: creating doc/unbound.conf.5
+config.status: creating doc/unbound-control.8
+config.status: creating doc/unbound-host.1
+config.status: creating smallapp/unbound-control-setup.sh
+config.status: creating dnstap/dnstap_config.h
+config.status: creating contrib/libunbound.pc
+config.status: creating config.h
+config.status: executing libtool commands
