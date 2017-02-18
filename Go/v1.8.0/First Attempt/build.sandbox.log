@@ -1,0 +1,497 @@
+Feb 17 20:08:59 sandboxd[154]: storeaccountd(87784) deny file-write-create /Users/bryce/Library/Caches/com.apple.Spotlight/ProductionBag
+Feb 17 20:09:12 sandboxd[154]: SocialPushAgent(88102) deny file-write-data /Users/bryce/Library/Preferences/com.apple.socialpushagent.plist
+Feb 17 20:09:21 sandboxd[154]: SocialPushAgent(88102) deny file-write-data /Users/bryce/Library/Preferences/com.apple.socialpushagent.plist
+Feb 17 20:09:55 sandboxd[154]: storeaccountd(87784) deny file-write-create /Users/bryce/Library/Caches/com.apple.Spotlight/ProductionBag
+Feb 17 20:10:49 kernel[0]: Sandbox: com.apple.Addres(88441) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:10:50 kernel[0]: Sandbox: com.apple.Addres(88441) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:10:51 kernel[0]: Sandbox: com.apple.Addres(88441) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:10:52 kernel[0]: Sandbox: com.apple.Addres(88441) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:10:53 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-issue-extension /dev/null
+Feb 17 20:10:53 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-issue-extension /dev/null
+Feb 17 20:10:57 kernel[0]: Sandbox: com.apple.Addres(89842) deny(1) mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:04 kernel[0]: Sandbox: com.apple.Addres(89842) deny(1) mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:05 kernel[0]: Sandbox: OneDrive(88753) deny(1) file-read-data /Users/bryce/Documents
+Feb 17 20:11:05 kernel[0]: Sandbox: OneDrive(88753) deny(1) file-read-data /Users/bryce
+Feb 17 20:11:05 kernel[0]: Sandbox: OneDrive(88753) deny(1) file-read-data /Users
+Feb 17 20:11:06 sandboxd[154]: com.apple.Addres(89842) deny mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) mach-lookup com.apple.windowserver.active
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) mach-lookup com.apple.windowserver.active
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) mach-lookup com.apple.lsd.mapdb
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /private/var/folders/dj/sxrf2t7n11s5s9d5cpv21hqr0000gs/0/com.apple.LaunchServices-134505.csstore
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Users/bryce/Library/Preferences/com.apple.LaunchServices.plist
+Feb 17 20:11:09 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Users/bryce/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist
+Feb 17 20:11:10 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) mach-lookup com.apple.SecurityServer
+Feb 17 20:11:11 sandboxd[154]: com.apple.Addres(89842) deny mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents/MacOS/App Store
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents/MacOS/App Store/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents/MacOS/App Store
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/App Store.app/Contents/PlugIns
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents/MacOS/Automator
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents/MacOS/Automator/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Automator.app/Contents/MacOS/Automator
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents/MacOS/Calculator
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents/MacOS/Calculator/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents/MacOS/Calculator
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calculator.app/Contents/PlugIns
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents/MacOS/Calendar
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents/MacOS/Calendar/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents/MacOS/Calendar
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Calendar.app/Contents/PlugIns
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents/MacOS/Chess
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents/MacOS/Chess/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Chess.app/Contents/MacOS/Chess
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents/MacOS/Contacts
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents/MacOS/Contacts/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Contacts.app/Contents/MacOS/Contacts
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents/MacOS/Dashboard
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents/MacOS/Dashboard/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dashboard.app/Contents/MacOS/Dashboard
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents/MacOS/Dictionary
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents/MacOS/Dictionary/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Dictionary.app/Contents/MacOS/Dictionary
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents/MacOS/DVD Player
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents/MacOS/DVD Player/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/DVD Player.app/Contents/MacOS/DVD Player
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents/PkgInfo
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents/MacOS/FaceTime
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents/MacOS/FaceTime/..namedfork/rsrc
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents/MacOS/FaceTime
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/FaceTime.app/Contents/PlugIns
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents
+Feb 17 20:11:12 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents/MacOS/Font Book
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents/MacOS/Font Book/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Font Book.app/Contents/MacOS/Font Book
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents/MacOS/Game Center
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents/MacOS/Game Center/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Game Center.app/Contents/MacOS/Game Center
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents/MacOS/Image Capture
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents/MacOS/Image Capture/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Image Capture.app/Contents/MacOS/Image Capture
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents/MacOS/iTunes
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents/MacOS/iTunes/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents/MacOS/iTunes
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/iTunes.app/Contents/PlugIns
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents/MacOS/Launchpad
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents/MacOS/Launchpad/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Launchpad.app/Contents/MacOS/Launchpad
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents/MacOS/Mail
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents/MacOS/Mail/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents/MacOS/Mail
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mail.app/Contents/PlugIns
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents/MacOS/Messages
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents/MacOS/Messages/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents/MacOS/Messages
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Messages.app/Contents/PlugIns
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents/MacOS/Mission Control
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents/MacOS/Mission Control/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Mission Control.app/Contents/MacOS/Mission Control
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents/MacOS/Notes
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents/MacOS/Notes/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents/MacOS/Notes
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Notes.app/Contents/PlugIns
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents/MacOS/Photo Booth
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents/MacOS/Photo Booth/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photo Booth.app/Contents/MacOS/Photo Booth
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents/MacOS/Preview
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents/MacOS/Preview/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents/MacOS/Preview
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Preview.app/Contents/PlugIns
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents/MacOS/Photos
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents/MacOS/Photos/..namedfork/rsrc
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents/Library/Automator
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Photos.app/Contents/MacOS/Photos
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents/PkgInfo
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents/MacOS/QuickTime Player
+Feb 17 20:11:13 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents/MacOS/QuickTime Player/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents/MacOS/QuickTime Player
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/QuickTime Player.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents/MacOS/Reminders
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents/MacOS/Reminders/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents/MacOS/Reminders
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Reminders.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents/MacOS/Safari
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents/MacOS/Safari/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents/MacOS/Safari
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Safari.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents/MacOS/Stickies
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents/MacOS/Stickies/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Stickies.app/Contents/MacOS/Stickies
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents/MacOS/System Preferences
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents/MacOS/System Preferences/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents/MacOS/System Preferences
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/System Preferences.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents/MacOS/TextEdit
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents/MacOS/TextEdit/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/TextEdit.app/Contents/MacOS/TextEdit
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents/MacOS/Time Machine
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents/MacOS/Time Machine/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Time Machine.app/Contents/MacOS/Time Machine
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/MacOS/Xcode
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/MacOS/Xcode/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/Library/Spotlight
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/MacOS/Xcode
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Xcode.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents/MacOS/AirPort Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents/MacOS/AirPort Utility/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/AirPort Utility.app/Contents/MacOS/AirPort Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents/MacOS/Audio MIDI Setup
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents/MacOS/Audio MIDI Setup/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Audio MIDI Setup.app/Contents/MacOS/Audio MIDI Setup
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents/MacOS/Bluetooth File Exchange
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents/MacOS/Bluetooth File Exchange/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Bluetooth File Exchange.app/Contents/MacOS/Bluetooth File Exchange
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents/MacOS/Boot Camp Assistant
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents/MacOS/Boot Camp Assistant/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Boot Camp Assistant.app/Contents/MacOS/Boot Camp Assistant
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents/MacOS/ColorSync Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents/MacOS/ColorSync Utility/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/ColorSync Utility.app/Contents/MacOS/ColorSync Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents/MacOS/Console
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents/MacOS/Console/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Console.app/Contents/MacOS/Console
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents/MacOS/Digital Color Meter
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents/MacOS/Digital Color Meter/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Digital Color Meter.app/Contents/MacOS/Digital Color Meter
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents/MacOS/Disk Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents/MacOS/Disk Utility/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Disk Utility.app/Contents/MacOS/Disk Utility
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents/MacOS/Grab
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents/MacOS/Grab/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grab.app/Contents/MacOS/Grab
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents/MacOS/Grapher
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents/MacOS/Grapher/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Grapher.app/Contents/MacOS/Grapher
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents/MacOS/Keychain Access
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents/MacOS/Keychain Access/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Keychain Access.app/Contents/MacOS/Keychain Access
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents/MacOS/Migration Assistant
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents/MacOS/Migration Assistant/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Migration Assistant.app/Contents/MacOS/Migration Assistant
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents/MacOS/Script Editor
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents/MacOS/Script Editor/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents/MacOS/Script Editor
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Script Editor.app/Contents/PlugIns
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents/MacOS/System Information
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents/MacOS/System Information/..namedfork/rsrc
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/System Information.app/Contents/MacOS/System Information
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents/PkgInfo
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+Feb 17 20:11:14 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal/..namedfork/rsrc
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents/PkgInfo
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents/MacOS/VoiceOver Utility
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents/MacOS/VoiceOver Utility/..namedfork/rsrc
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) file-read-data /Applications/Utilities/VoiceOver Utility.app/Contents/MacOS/VoiceOver Utility
+Feb 17 20:11:15 kernel[0]: Sandbox: com.apple.speech(88754) deny(1) mach-lookup com.apple.lsd.modifydb
+Feb 17 20:11:16 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:17 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:18 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:19 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:19 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:20 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:21 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:22 kernel[0]: Sandbox: com.apple.Addres(90314) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:23 sandboxd[154]: com.apple.Addres(89842) deny mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:24 kernel[0]: Sandbox: appleeventsd(59) deny(1) file-read-metadata /Library/Security/Trust Settings/Admin.plist
+Feb 17 20:11:27 sandboxd[154]: com.apple.Addres(88441) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:32 sandboxd[154]: com.apple.Addres(89842) deny mach-lookup com.apple.cdp.daemon
+Feb 17 20:11:36 sandboxd[154]: com.apple.Addres(88441) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:36 sandboxd[154]: com.apple.Addres(88441) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:11:38 sandboxd[154]: com.apple.Addres(88441) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:03 sandboxd[154]: AssetCacheLocato(92941) deny mach-lookup com.apple.cookied
+Feb 17 20:14:21 sandboxd[154]: com.apple.Addres(89842) deny mach-lookup com.apple.cdp.daemon
+Feb 17 20:14:51 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:53 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:53 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:55 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:56 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:56 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:57 sandboxd[154]: com.apple.Addres(94045) deny network-outbound /private/var/run/mDNSResponder
+Feb 17 20:14:57 kernel[0]: Sandbox: com.apple.Addres(94045) deny(1) network-outbound /private/var/run/mDNSResponder
+Feb 17 20:15:40 kernel[0]: Sandbox: storeaccountd(87784) deny(1) file-write-create /Users/bryce/Library/Caches/com.apple.Safari/ProductionBag
+Feb 17 20:15:41 sandboxd[154]: storeaccountd(87784) deny file-write-create /Users/bryce/Library/Caches/com.apple.Safari/ProductionBag
+Feb 17 20:15:48 kernel[0]: Sandbox: storeaccountd(87784) deny(1) file-write-create /Users/bryce/Library/Caches/com.apple.Safari/ProductionBag
+Feb 17 20:28:46 sandboxd[154]: com.apple.Safari(95300) deny mach-lookup com.apple.CoreServices.coreservicesd
+Feb 17 20:31:42 sandboxd[154]: com.apple.Safari(95300) deny file-read-metadata /usr
+
+We use time to filter sandbox log. Therefore, unrelated logs may be recorded.
