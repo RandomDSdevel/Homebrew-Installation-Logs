@@ -1,0 +1,1 @@
+tesseract --with-all-languages --with-opencl --with-serial-num-pack --with-training-tools
