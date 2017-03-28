@@ -1,0 +1,26 @@
+$ ./autogen.sh clean 2>&1 | tee -a /Volumes/Development/Repositories/Homebrew\ Build\ and\ Installation\ Logs/Tesseract/v3.05.00/Fourth\ Attempt
+Cleaning...
+Running aclocal
+Running /usr/local/bin/glibtoolize
+glibtoolize: putting auxiliary files in AC_CONFIG_AUX_DIR, 'config'.
+glibtoolize: copying file 'config/ltmain.sh'
+glibtoolize: putting macros in AC_CONFIG_MACRO_DIRS, 'm4'.
+glibtoolize: copying file 'm4/libtool.m4'
+glibtoolize: copying file 'm4/ltoptions.m4'
+glibtoolize: copying file 'm4/ltsugar.m4'
+glibtoolize: copying file 'm4/ltversion.m4'
+glibtoolize: copying file 'm4/lt~obsolete.m4'
+Running autoheader
+Running automake --add-missing --copy
+configure.ac:312: installing 'config/compile'
+configure.ac:87: installing 'config/config.guess'
+configure.ac:87: installing 'config/config.sub'
+configure.ac:69: installing 'config/install-sh'
+configure.ac:69: installing 'config/missing'
+api/Makefile.am: installing 'config/depcomp'
+Running autoconf
+
+All done.
+To build the software now, do something like:
+
+$ ./configure [--enable-debug] [...other options]
