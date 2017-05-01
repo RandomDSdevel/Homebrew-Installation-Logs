@@ -1,0 +1,12 @@
+openssh: stable 7.5p1 (bottled)
+OpenBSD freely-licensed SSH connectivity tools
+https://www.openssh.com/
+/usr/local/Cellar/openssh/7.5p1 (32 files, 4MB) *
+  Built from source on 2017-03-23 at 18:13:43 with: --with-ldns
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/openssh.rb
+==> Dependencies
+Required: openssl
+Optional: ldns
+==> Options
+--with-ldns
+	Build with ldns support
